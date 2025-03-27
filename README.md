@@ -2,10 +2,12 @@
 
 This repository documents the systems engineering collaboration between ElevateCS and the CSU Biology Teaching Collection. We are currently in the early stages of identifying and designing a system to assist with anatomical specimen classification and deviation detection — starting with a focus on **animal skulls** and other taxidermy.
 
-Project Managers: Sabrina Ornelas & Jackson Castleberry
+- Project Managers: Sabrina Ornelas & Jackson Castleberry
 
-Main Systems & Software Engineering Team: Deon Ornelas, Parker Volesky, Osarumen Okhiku, Ethan Wise, Kyle Smith Hanna
+- Main Systems & Software Engineering Team: Deon Ornelas, Parker Volesky, Osarumen Okhiku, Ethan Wise, Kyle Smith Hanna
 
+- CSU Facutly Advisor: Fabio De Abreu Santos
+  
 ## 🔍 Project Goal
 
 To develop a tool that allows students or instructors to analyze and identify deviations in biological specimens using computer vision, feature mapping, or 3D data — enhancing learning in anatomy and comparative biology.
