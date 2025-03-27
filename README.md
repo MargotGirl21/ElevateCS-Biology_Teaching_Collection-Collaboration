@@ -4,7 +4,7 @@ This repository documents the systems engineering collaboration between ElevateC
 
 Project Managers: Sabrina Ornelas & Jackson Castleberry
 
-Main Systems & Software Engineering Team: Parker Volesky, Osarumen Okhiku, Ethan Wise, Kyle Smith Hanna
+Main Systems & Software Engineering Team: Deon Ornelas, Parker Volesky, Osarumen Okhiku, Ethan Wise, Kyle Smith Hanna
 
 ## 🔍 Project Goal
 
