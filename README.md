@@ -4,6 +4,8 @@ This repository documents the systems engineering collaboration between ElevateC
 
 Project Managers: Sabrina Ornelas & Jackson Castleberry
 
+Main Systems & Software Engineering Team: Parker Volesky, Osarumen Okhiku, Ethan Wise, Kyle Smith Hanna
+
 ## 🔍 Project Goal
 
 To develop a tool that allows students or instructors to analyze and identify deviations in biological specimens using computer vision, feature mapping, or 3D data — enhancing learning in anatomy and comparative biology.
@@ -38,7 +40,7 @@ We are applying model-based systems engineering principles throughout:
 
 - Biology Teaching Collection faculty & curators
 
-🎯 Who This Is For
+# 🎯 Who This Is For
 This project is intended for:
 
 - Biology educators and instructors:
@@ -89,12 +91,14 @@ Once development begins:
 - Code reviews will be open and collaborative — we’re here to learn together!
 
 ## 💬 Interested in Joining?
-Feel free to open an Issue with a question, or email us at elevatecs@gmail.com if you're interested in becoming a collaborator.
+- Feel free to open an Issue with a question, or email us at elevatecs@gmail.com if you're interested in becoming a collaborator.
 
-## 🧑‍🎓 New to GitHub or Open Source?
+- Email us at contact.elevatecs@gmail.com or talk to any ElevateCS club officer
+
+# 🧑‍🎓 New to GitHub or Open Source?
 No problem! We’re happy to walk you through making your first contribution — just reach out!
 
-## 📁 Project Structure (Planned)
+# 📁 Project Structure (Planned)
 
 ```bash
 📁 docs/
